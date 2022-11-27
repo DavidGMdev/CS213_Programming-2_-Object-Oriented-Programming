@@ -1,0 +1,35 @@
+// Assignmnet Required Class
+class ColoredBox {
+    private:
+        // box itself 
+        // chrachter that form box itself
+        // dimentions of box [ Length , width ]
+        // Box color 
+    public:
+        // static memebers 
+            // Biggest area among all objects [boxes]
+        // Static Member Functions
+            // Geeter for Maximum Area staticly saved
+        // Constructors 
+                // Paramterized constructor [take :: length , width , charachter( defult = # ) , color (defult = white) ]  
+        // Member Functions (Methods)
+            // Setters 
+                // length 
+                // width
+                // chrachter
+                // color
+                // Build up the Box
+            // Getters
+                // length 
+                // width
+                // chrachter
+                // color
+                // the Box
+                // Area
+            // Extra Methods
+                // Printing Method
+                // Transposed Printing Method 
+                // Wider [extra spacing] Method
+                // displayChess Method
+        // Destructor
+};
